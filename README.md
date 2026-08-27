@@ -121,7 +121,7 @@ Some key observations from the dashboard include:
 
 ## 📷 Dashboard Preview
 
-![MobiZone Power BI Dashboard](screenshot/mobizone-dashboard.png)
+![MobiZone Power BI Dashboard](screenshot/mobiZone-dashboard.png)
 
 ---
 
@@ -134,7 +134,7 @@ MobiZone-Mobile-Sales-Analysis/
 ├── README.md
 │
 └── screenshot/
-    └── mobizone-dashboard.png
+    └── mobiZone-dashboard.png
 ```
 
 ---
